@@ -17,8 +17,18 @@ La familia de modulos NEO-6 utilizan principalmente el chip u-blox NEO-6 y una a
 
 ![imagen](https://github.com/user-attachments/assets/9ed037de-69e0-47d4-ad28-7ba564aa744f)
 
-La antena generalmente es del tipo path, su tamaño varia segun el rango de frecuencias 
+<ul>
 
+  <li>Antena: La antena generalmente es del tipo path, su tamaño varia segun el rango de frecuencias a mayor tamaño fisico mejor disposicion para frecuencias mas bajas.</li>
+
+  <li>SAW: El filtro de ondas acústicas superficiales (Surface Acoustic Wave, -Filtro SAW) es un dispositivo piezoeléctrico que ayuda a filtrar ruidos,el filtro SAW selecciona y    permite pasar solo la frecuencia específica (en este caso, L1) mientras rechaza las señales en otras frecuencias cercanas. Esto ayuda a reducir el ruido y las interferencias que podrían afectar la precisión del GPS.</li>
+
+  <li>RF: Sistema de radiofrecuencia que se encarga de la recepción y transmisión de señales de radiofrecuencia (RF), aumenta la potencia de la señal recibida para que sea suficiente para el procesamiento posterior.Esto se hace mediante amplificadores de bajo ruido (LNA: Amplifier noise low) en la recepción y amplificadores de potencia (PA) en la transmisión.</li>
+ 
+  <li>Baseband Processor: Se encarga de manejar y procesar las señales después de que han sido captadas y amplificadas en la etapa RF (radiofrecuencia).</li>
+
+  
+</ul>
 Recepción de Señales de Satélites: El NEO-6 recibe señales de radiofrecuencia de múltiples satélites GPS. Los satélites GPS emiten señales en frecuencias específicas, y el receptor NEO-6 está diseñado para captar estas señales.
 
 Decodificación de Señales: El chip NEO-6 decodifica las señales de los satélites. Cada señal contiene información sobre el tiempo y la posición del satélite que la envió, así como datos de corrección.
