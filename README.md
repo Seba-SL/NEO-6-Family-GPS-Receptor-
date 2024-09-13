@@ -12,9 +12,12 @@ La familia de modulos NEO-6 utilizan principalmente el chip u-blox NEO-6 y una a
   <li>Exactitud de Velocidad : 0.1 m/s</li>
   <li>Limite de velocidad: 500 m/s</li>
   <li>Limite de altura: 50 Km</li>
+  <li>Frecuencia de Trabajo : L1 (1575.42 MHz)</li>
 </ul>
 
 ![imagen](https://github.com/user-attachments/assets/9ed037de-69e0-47d4-ad28-7ba564aa744f)
+
+La antena generalmente es del tipo path, su tamaño varia segun el rango de frecuencias 
 
 Recepción de Señales de Satélites: El NEO-6 recibe señales de radiofrecuencia de múltiples satélites GPS. Los satélites GPS emiten señales en frecuencias específicas, y el receptor NEO-6 está diseñado para captar estas señales.
 
