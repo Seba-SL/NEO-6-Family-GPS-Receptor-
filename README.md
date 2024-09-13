@@ -64,6 +64,7 @@ Para procesar y utilizar la información proporcionada, se utilizan diferentes e
 Entorno de Desarrollo Arduino
 Libreria TinyGPS++ : Esta biblioteca proporciona métodos compactos y fáciles de usar para extraer posición, fecha, hora, altitud, velocidad y desde dispositivos GPS.
 https://github.com/mikalhart/TinyGPSPlus
+http://arduiniana.org/libraries/tinygpsplus/
 
 
 <h3>Prueba con Arduino UNO: Ver datos en Monitor Serial</h3>
