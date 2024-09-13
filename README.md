@@ -39,3 +39,14 @@ Se utilizara el modulo GY-GPS6MV2 con el modulo NEO-6M.
 
 <img src="https://github.com/user-attachments/assets/1d375b55-1171-4abb-8274-c8b25dc86bf0" alt="imagen" width="200"/>
 <img src="https://github.com/user-attachments/assets/7c5f267f-fd30-41fa-bf6f-8baf8c459392" alt="imagen" width="270"/>
+
+Para procesar y utilizar la información proporcionada, se utilizan diferentes entornos de desarrollo:
+
+Arduino : Mediante comunicación UART 
+Esp8266 : Mediante comunicación UART 
+Computadora : USB con convertidor TTL 
+Raspberry : Mediante comunicación UART 
+
+
+
+
