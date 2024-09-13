@@ -48,7 +48,7 @@ Configuración y Ajustes: El NEO-6 puede ser configurado para diferentes modos d
 Sistema de Coordenadas:
 
 Se utiliza el estandar WGS World Geodetic System (https://en.wikipedia.org/wiki/World_Geodetic_System), define el centreo de masa de la Tierra como referencia (0,0,0), el eje z esta en direccion al Polo Norte Geografico, el eje x en la interseccion del plano Ecuatorial y el Meridiano de Greenwich y finalmente el eje y esta dado por el producto vectorial de estos anteriores.
-<h1>  <img src="https://github.com/user-attachments/assets/ceb2f1bc-f852-43de-a33f-b388b77b5925" alt="imagen" width="300"/>  
+<h1>  <img src="https://github.com/user-attachments/assets/ceb2f1bc-f852-43de-a33f-b388b77b5925" alt="imagen" width="600"/>  
 
 
 <h1>  <img src="https://github.com/user-attachments/assets/c6e1de60-26ce-4e06-ba65-9f307ec6c238" alt="imagen" width="80"/>   Prácticas de comunicación GPS </h1>
