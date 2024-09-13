@@ -29,6 +29,9 @@ Envío de Datos: Una vez calculada la posición, el NEO-6 envía estos datos a u
 Configuración y Ajustes: El NEO-6 puede ser configurado para diferentes modos de operación y tasas de actualización de datos. Estas configuraciones se realizan mediante comandos específicos enviados al módulo a través de su interfaz de comunicación.
 
 
+![imagen](https://github.com/user-attachments/assets/160fa5bc-f899-49b8-8466-c738445b300f)
+
+
 <h1>  <img src="https://github.com/user-attachments/assets/c6e1de60-26ce-4e06-ba65-9f307ec6c238" alt="imagen" width="80"/>   Prácticas de comunicación GPS </h1>
 
 Se utilizara el modulo GY-GPS6MV2 con el modulo NEO-6M.
