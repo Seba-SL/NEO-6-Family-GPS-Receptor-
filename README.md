@@ -48,5 +48,11 @@ Para procesar y utilizar la información proporcionada, se utilizan diferentes e
 <li>Raspberry : Mediante comunicación UART</li>
 </ul>
 
+Entorno de Desarrollo Arduino
+Libreria TinyGPS++ : Esta biblioteca proporciona métodos compactos y fáciles de usar para extraer posición, fecha, hora, altitud, velocidad y desde dispositivos GPS.
+ https://www.arduino.cc/reference/en/libraries/tinygpsplus/ 
+
+ 
+
 
 
