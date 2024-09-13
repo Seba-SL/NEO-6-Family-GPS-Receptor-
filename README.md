@@ -67,6 +67,7 @@ https://github.com/mikalhart/TinyGPSPlus
 
 
 <h3>Prueba con Arduino UNO: Ver datos en Monitor Serial</h3>
+
 ```cpp
 #include <SoftwareSerial.h> // Para usar otros pines para comunicacion UART
 #include <TinyGPS++.h>
@@ -122,7 +123,6 @@ void loop() {
     }
   }
 }
-
 
 ```
 
