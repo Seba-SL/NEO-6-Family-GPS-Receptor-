@@ -62,6 +62,10 @@ L longitud mide la distancia al este o al oeste del meridiano de Greenwich, que 
 
 Se utilizara el modulo GY-GPS6MV2 con el modulo NEO-6M.
 
+Los datos llegan de la siguiente manera , usando una libreria se pueden extraer para su uso:
+![imagen](https://github.com/user-attachments/assets/e0d207dd-c5a8-44de-943d-778296c1d2a3)
+
+
 
 <img src="https://github.com/user-attachments/assets/1d375b55-1171-4abb-8274-c8b25dc86bf0" alt="imagen" width="200"/>
 <img src="https://github.com/user-attachments/assets/7c5f267f-fd30-41fa-bf6f-8baf8c459392" alt="imagen" width="270"/>
