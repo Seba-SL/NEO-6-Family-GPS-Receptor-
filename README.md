@@ -142,6 +142,8 @@ void loop() {
 
 ![imagen](https://github.com/user-attachments/assets/075e47bc-aae5-4e71-9f60-15e1d4f66e4a)
 
+![imagen](https://github.com/user-attachments/assets/e44adf10-2af5-4327-adaf-4ae86bb057fa)
+
 
 
 
