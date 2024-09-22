@@ -153,6 +153,16 @@ Utilizando la informacion en google maps:
 https://github.com/user-attachments/assets/98074e19-e4a9-4ae0-a0b0-53d778a2b726
 
 
+Uso de Stellarium (software libre) para visualizaciones en el espacio : 
+
+https://stellarium.org/
+
+****![imagen](https://github.com/user-attachments/assets/1c9fbf53-d3b7-46d6-8613-76ec4f892dac)
+
+![imagen](https://github.com/user-attachments/assets/827d8392-e175-4d93-a228-8e58712ed3cf)
+
+
+
 
 
 
