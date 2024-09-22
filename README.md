@@ -145,6 +145,14 @@ Utilizando la informacion en google maps:
 
 ![imagen](https://github.com/user-attachments/assets/7dd9ea08-13c9-414e-8b6f-533e614be279)
 
+![imagen](https://github.com/user-attachments/assets/2df2f34f-9290-43b9-b925-c768596f0f0b)
+
+
+
+
+https://github.com/user-attachments/assets/98074e19-e4a9-4ae0-a0b0-53d778a2b726
+
+
 
 
 
