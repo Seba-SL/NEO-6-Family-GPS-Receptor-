@@ -58,14 +58,10 @@ L longitud mide la distancia al este o al oeste del meridiano de Greenwich, que 
 ![imagen](https://github.com/user-attachments/assets/15d23f7f-f6b9-4a25-ae17-5f2c3532c5f6)
 
 
+
 <h1>  <img src="https://github.com/user-attachments/assets/c6e1de60-26ce-4e06-ba65-9f307ec6c238" alt="imagen" width="80"/>   Prácticas de comunicación GPS </h1>
 
 Se utilizara el modulo GY-GPS6MV2 con el modulo NEO-6M.
-
-Los datos llegan de la siguiente manera , usando una libreria se pueden extraer para su uso:
-![imagen](https://github.com/user-attachments/assets/e0d207dd-c5a8-44de-943d-778296c1d2a3)
-
-
 
 <img src="https://github.com/user-attachments/assets/1d375b55-1171-4abb-8274-c8b25dc86bf0" alt="imagen" width="200"/>
 <img src="https://github.com/user-attachments/assets/7c5f267f-fd30-41fa-bf6f-8baf8c459392" alt="imagen" width="270"/>
@@ -82,6 +78,12 @@ Entorno de Desarrollo Arduino
 Libreria TinyGPS++ : Esta biblioteca proporciona métodos compactos y fáciles de usar para extraer posición, fecha, hora, altitud, velocidad y desde dispositivos GPS.
 https://github.com/mikalhart/TinyGPSPlus
 http://arduiniana.org/libraries/tinygpsplus/
+
+
+Los datos llegan de la siguiente manera , usando una libreria se pueden extraer para su uso:
+
+![imagen](https://github.com/user-attachments/assets/e0d207dd-c5a8-44de-943d-778296c1d2a3)
+
 
 
 <h3>Prueba con Arduino UNO: Ver datos en Monitor Serial</h3>
@@ -143,7 +145,6 @@ void loop() {
 }
 
 ```
-Prueba *Poner captura de lo q tiraba en la facu
 
 Utilizando la informacion en google maps:
 
@@ -161,7 +162,7 @@ Uso de Stellarium (software libre) para visualizaciones en el espacio :
 
 https://stellarium.org/
 
-****![imagen](https://github.com/user-attachments/assets/1c9fbf53-d3b7-46d6-8613-76ec4f892dac)
+![imagen](https://github.com/user-attachments/assets/1c9fbf53-d3b7-46d6-8613-76ec4f892dac)
 
 ![imagen](https://github.com/user-attachments/assets/827d8392-e175-4d93-a228-8e58712ed3cf)
 
