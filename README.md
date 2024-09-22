@@ -139,12 +139,11 @@ void loop() {
 }
 
 ```
-
-![imagen](https://github.com/user-attachments/assets/075e47bc-aae5-4e71-9f60-15e1d4f66e4a)
+Prueba *Poner captura de lo q tiraba en la facu
 
 Utilizando la informacion en google maps:
 
-![imagen](https://github.com/user-attachments/assets/e44adf10-2af5-4327-adaf-4ae86bb057fa)
+![imagen](https://github.com/user-attachments/assets/7dd9ea08-13c9-414e-8b6f-533e614be279)
 
 
 
