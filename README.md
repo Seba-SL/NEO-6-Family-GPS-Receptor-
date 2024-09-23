@@ -152,7 +152,9 @@ Utilizando la informacion en google maps:
 
 ![imagen](https://github.com/user-attachments/assets/2df2f34f-9290-43b9-b925-c768596f0f0b)
 
+[Grabación de pantalla desde 2024-09-23 08-04-08.webm](https://github.com/user-attachments/assets/17a56163-4ef6-4cc0-86d6-d1a2dda2eb41)
 
+![Captura desde 2024-09-23 08-03-53](https://github.com/user-attachments/assets/1da0c731-36c3-4ac3-91bc-229d1e32e4b7)
 
 
 https://github.com/user-attachments/assets/98074e19-e4a9-4ae0-a0b0-53d778a2b726
